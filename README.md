@@ -47,4 +47,4 @@ DAX measures creation
 Dashboard design
 
 7🖼️ Dashboard Preview
-Add screenshot as: dashboard.png
+show what the dashboard looks like: https://github.com/saurabhkumar-jpg/power-bi-project--mobile-sales-dashboard/blob/main/Screenshot%20of%20the%20dashboard%20.png
